@@ -1,2 +1,2 @@
 # tester
-linking ,y github to vs code
+linking ,my github to vs code
